@@ -5,7 +5,7 @@ weight: 02
 draft: false
 ---
 
-__Note:__ Only complete this section if you are running the workshop through an AWS hosted event.
+__*Perform the steps on this page only if you are running the workshop through an AWS-hosted event.*__
 
 For an AWS hosted event, you are provided with an AWS account through the AWS Event Engine service using a 12-digit hash by event staff. This is your unique access code.
 
@@ -23,5 +23,3 @@ For an AWS hosted event, you are provided with an AWS account through the AWS Ev
 ![02_page](/images/prerequisite/region.png)
 
 You can leave the AWS console opened. 
-
-
