@@ -4,9 +4,9 @@ date: 2020-10-12T20:33:20+03:00
 weight: 3
 ---
 
-* __Blueprint:__ Reusable template​ to capture and replicate complex application infrastructure. A blueprint is itself comprised of reusable __Building Blocks__
-
 * __Environment:__ Includes cloud infrastructure, containers, data, application
+
+* __Blueprint:__ Reusable environment template​ to capture and replicate complex application infrastructure. A blueprint is itself comprised of reusable __Building Blocks__
 
 * __Sandbox:__ Temporary environment that is automatically terminated once its time expires (ephemeral).
 
