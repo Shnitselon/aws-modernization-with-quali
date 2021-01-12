@@ -9,7 +9,7 @@ __*Perform the steps on this page only if you are running the workshop through a
 
 For an AWS hosted event, you are provided with an AWS account through the AWS Event Engine service using a 12-digit hash by event staff. This is your unique access code.
 
-1\. Go to https://dashboard.eventengine.run/
+1\. Go to https://dashboard.eventengine.run/.
 ![02_page](/images/prerequisite/hash.png)
 2\. Enter the provided hash code in the text box.
  
