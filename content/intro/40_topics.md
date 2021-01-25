@@ -6,8 +6,8 @@ weight: 4
 
 * A __simple approach__ to model and deploy complex applications in AWS.
 
-* How to __increase your developer's productivity__ with self-service and DevOps ready integrations.
+* How to __increase your developers' productivity__ with self-service and DevOps-ready integrations.
 
-* How to __control your cloud costs__ through automation.
+* How to __control cloud cost__ through automation.
 
  ![40_page](/images/intro/graduate.png)
