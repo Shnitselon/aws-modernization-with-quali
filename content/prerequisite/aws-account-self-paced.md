@@ -5,7 +5,7 @@ weight: 04
 draft: false
 ---
 
-__Note__: If you already have an AWS account with a role that has IAM Administrator permissions you can skip this step.
+__Note__: Skip this step if you already have an AWS account with a role that has IAM Administrator permissions.
 
 1\. [Create an AWS account](https://aws.amazon.com/getting-started/).
 
