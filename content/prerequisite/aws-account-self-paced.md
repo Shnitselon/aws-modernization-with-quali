@@ -9,9 +9,9 @@ __Note__: Skip this step if you already have an AWS account with a role that has
 
 1\. [Create an AWS account](https://aws.amazon.com/getting-started/).
 
-2\. Once you have created an AWS account, [create a IAM user](https://console.aws.amazon.com/iam/home?#/users$new) 
+2\. Once you have created an AWS account, [create an IAM user](https://console.aws.amazon.com/iam/home?#/users$new) 
 
-3.\ Enter a name and set a password.
+3\. Enter a name and set a password.
 ![02_page](/images/prerequisite/create-aws-user.png)
 
 4\. Uncheck the __Require Password Reset__ box.
